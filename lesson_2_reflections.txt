@@ -1,0 +1,5 @@
+Git sets up all the initial items but does not commit. 
+It also adds the .git hidden folder
+
+The stagging area gives you a nice inbetween to control the content of a commit as well as review a commit before you 
+complete it.
