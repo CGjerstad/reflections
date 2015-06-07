@@ -10,3 +10,7 @@ only relate to one logical change.
 
 Branches can be really useful for diffrent versions. Say a project has Mac or windows version.
 Or a release version then a beta version
+
+The log isnt always a complete picture nor is it in a obvious order sometimes. 
+Takeing the time to draw it all out helps you see the structure of the log in a
+easier to understand fashion.
