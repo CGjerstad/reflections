@@ -1,8 +1,12 @@
 Git sets up all the initial items but does not commit. 
 It also adds the .git hidden folder
 
-The stagging area gives you a nice inbetween to control the content of a commit as well as review a commit before you 
-complete it.
+The stagging area gives you a nice inbetween to control the content of 
+a commit as well as review a commit before you complete it.
 
-The stagging area gives you a chance to review the items you will commit. In turn you can verify all the files located inside
+The stagging area gives you a chance to review the items you will commit. 
+In turn you can verify all the files located inside
 only relate to one logical change.
+
+Branches can be really useful for diffrent versions. Say a project has Mac or windows version.
+Or a release version then a beta version
