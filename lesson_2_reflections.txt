@@ -14,3 +14,7 @@ Or a release version then a beta version
 The log isnt always a complete picture nor is it in a obvious order sometimes. 
 Takeing the time to draw it all out helps you see the structure of the log in a
 easier to understand fashion.
+
+Useing the point where the code branched as refernce git makes educated choices as to what lines need
+to stay and what lines need to be removed.It is viewed as merging one branch into another like merging
+the code for a side project into the master branch.
