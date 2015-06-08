@@ -18,3 +18,8 @@ easier to understand fashion.
 Useing the point where the code branched as refernce git makes educated choices as to what lines need
 to stay and what lines need to be removed.It is viewed as merging one branch into another like merging
 the code for a side project into the master branch.
+
+Auto merging can save a lot of time for the most part with careful planning conflicts can be avoided.
+on the negitive side though there is still a chance for it to merge code that breaks the code.
+for example if a required line was removed.Or if two sets of code were done for the same function but in diffrent spots.
+For example two functions so you could have two functions by the same name added.
